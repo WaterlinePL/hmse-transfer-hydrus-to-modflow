@@ -1,0 +1,6 @@
+numpy~=1.22.4
+phydrus~=0.2.0
+flopy~=3.3.5
+StrEnum==0.4.8
+Werkzeug==2.2.0
+zipp==3.8.1
