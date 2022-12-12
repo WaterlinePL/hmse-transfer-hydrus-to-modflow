@@ -1,0 +1,3 @@
+[submodule "hmse_job_utils"]
+	path = hmse_job_utils
+	url = git@github.com:WaterlinePL/hmse_job_utils.git
